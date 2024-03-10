@@ -18,7 +18,7 @@ pip install -r requirements.txt
 After installing the required packages, run the application using Streamlit by executing the following command in your terminal or command prompt:
 
 ```
-streamlit run app.py
+streamlit run fitness_log_app.py
 ```
 
 Replace app.py with the path to the script if your file has a different name.
